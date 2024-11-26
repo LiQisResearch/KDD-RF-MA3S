@@ -56,7 +56,7 @@ Using an improvement-method for Diversity Optimization rather than a constructio
  year = {2023}
 }
 ```
-And RCC in LEHD:
+And RRC in LEHD:
 ```
 @inproceedings{NEURIPS2023_1c10d0c0,
  author = {Luo, Fu and Lin, Xi and Liu, Fei and Zhang, Qingfu and Wang, Zhenkun},
