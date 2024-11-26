@@ -75,5 +75,5 @@ And RCC in LEHD:
 
 # License
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE)
 
